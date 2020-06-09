@@ -1,6 +1,8 @@
 # go-grpc
+For [go-api](https://github.com/charlesfan/go-api).
 
 Create pb:
-```sh
+```bash
+make clean
 make gen
 ```
